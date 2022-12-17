@@ -1,13 +1,13 @@
 [![MasterHead](https://www.web24zone.com/wp-content/uploads/2022/10/46207-programmer-1.gif)
 
-<h1 align="center">Hi 👋, I'm Jerald</h1>
-<h3 align="center">AI engineer 💻</h3>
+<h1 align="center">Hi 👋, I'm Jerald Jesudasan</h1>
+<h3 align="center">AI Engineer💻</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jerald1608&label=Profile%20views&color=0e75b6&style=flat" alt="jerald1608" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jerald1608" alt="jerald1608" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/JeraldJesudasan?t=Rze_F0mibaCI4SFm34eOug&s=09" target="blank"><img src="https://img.shields.io/twitter/follow/@shridharan_24?logo=twitter&style=for-the-badge" alt="@shridharan_24" /></a> </p>
+<p align="left"> <a href="https://twitter.com/JeraldJesudasan?t=Rze_F0mibaCI4SFm34eOug&s=09" target="blank"><img src="https://img.shields.io/twitter/follow/@jerald1608?logo=twitter&style=for-the-badge" alt="@jerald1608" /></a> </p>
 
 - 🔭 I’m currently studying AI&DS @ [kamaraj college of engineering and technology](http://kamarajengg.edu.in/)
 
@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/jerald1608?tab=projects](https://github.com/jerald1608?tab=projects)
 
-- 💬 Ask me about **🤝😌**
+- 💬 My Website **https://jeraldjesudasan.ml/**
 
 - 📫 How to reach me **jjeraldjesudasan5@gmail.com**
 
@@ -23,8 +23,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/JeraldJesudasan?t=Rze_F0mibaCI4SFm34eOug&s=09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@shridharan_24" height="30" width="40" /></a>
-<a href="https://in.linkedin.com/in/jerald-jesudasan-728b911bb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shridharan r.b" height="30" width="40" /></a>
+<a href="https://twitter.com/JeraldJesudasan?t=Rze_F0mibaCI4SFm34eOug&s=09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@jerald1608" height="30" width="40" /></a>
+<a href="https://in.linkedin.com/in/jerald-jesudasan-728b911bb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jerald1608" height="30" width="40" /></a>
 <a href="https://www.instagram.com/jerald__16/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="s_h_riii" height="30" width="40" /></a>
 </p>
 
